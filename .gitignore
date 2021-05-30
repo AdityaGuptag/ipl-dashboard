@@ -1,0 +1,59 @@
+.idea
+
+### ipl-dashboard-backend ###
+/ipl-dashboard-backend/HELP.md
+/ipl-dashboard-backend/target/
+/ipl-dashboard-backend/!.mvn/wrapper/maven-wrapper.jar
+/ipl-dashboard-backend/!**/src/main/**/target/
+/ipl-dashboard-backend/!**/src/test/**/target/
+
+### STS ###
+/ipl-dashboard-backend/.apt_generated
+/ipl-dashboard-backend/.classpath
+/ipl-dashboard-backend/.factorypath
+/ipl-dashboard-backend/.project
+/ipl-dashboard-backend/.settings
+/ipl-dashboard-backend/.springBeans
+/ipl-dashboard-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+ipl-dashboard-backend/.idea
+ipl-dashboard-backend/.iws
+ipl-dashboard-backend/.iml
+ipl-dashboard-backend/.ipr
+
+### NetBeans ###
+/ipl-dashboard-backend/nbproject/private/
+/ipl-dashboard-backend/nbbuild/
+/ipl-dashboard-backend/dist/
+/ipl-dashboard-backend/nbdist/
+/ipl-dashboard-backend/.nb-gradle/
+/ipl-dashboard-backend/build/
+/ipl-dashboard-backend/!**/src/main/**/build/
+/ipl-dashboard-backend/!**/src/test/**/build/
+
+### VS Code ###
+/ipl-dashboard-backend/.vscode/
+
+### ipl-dashboard-frontend ###
+
+# dependencies
+/ipl-dashboard-frontend/node_modules
+/ipl-dashboard-frontend/.pnp
+/ipl-dashboard-frontend/.pnp.js
+
+# testing
+/ipl-dashboard-frontend/coverage
+
+# production
+/ipl-dashboard-frontend/build
+
+# misc
+/ipl-dashboard-frontend/.DS_Store
+/ipl-dashboard-frontend/.env.local
+/ipl-dashboard-frontend/.env.development.local
+/ipl-dashboard-frontend/.env.test.local
+/ipl-dashboard-frontend/.env.production.local
+/ipl-dashboard-frontend/npm-debug.log*
+/ipl-dashboard-frontend/yarn-debug.log*
+/ipl-dashboard-frontend/yarn-error.log*
